@@ -1,3 +1,14 @@
 .container{
     text-align: center;
 }
+
+.bikes-routes{ 
+    background-color: #78e710;
+    padding: 1.5%;
+    border-radius: 20px;
+}
+
+.bikes-routes-link{
+color: #131a0d;
+text-decoration: none;
+}
